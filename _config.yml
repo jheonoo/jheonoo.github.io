@@ -22,8 +22,8 @@ title: The blog # the main title
 
 tagline: The daily blog # it will display as the sub-title
 
-description: I wish your happy day. # used by seo meta and the atom feed
-
+description:  # used by seo meta and the atom feed
+  I wish your happy day.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://jheonoo.github.io"
@@ -31,18 +31,18 @@ url: "https://jheonoo.github.io"
 github:
   username: jheonoo # change to your github username
 
-#twitter:
- # username: twitter_username # change to your twitter username
+twitter:
+  username: twitter_username # change to your twitter username
 
-#social:
+social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  # name:jheonoo
-  # email:jheonoo87ko@gmail.com # change to your email address
-  #links:
+  name:jheonoo
+  email:jheonoo87ko@gmail.com # change to your email address
+  links:
     # The first element serves as the copyright owner's link
-   # - https://twitter.com/username # change to your twitter homepage
-   # - https://github.com/jheonoo # change to your github homepage
+    - https://twitter.com/username # change to your twitter homepage
+    - https://github.com/jheonoo # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
